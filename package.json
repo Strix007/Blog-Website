@@ -1,0 +1,19 @@
+{
+  "name": "blog-website",
+  "version": "1.0.0",
+  "description": "Blog Website Using EJS",
+  "main": "app.js",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://Strix007/BlogWebsite.git"
+  },
+  "author": "Arbab Khan",
+  "license": "ISC"
+}
